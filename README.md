@@ -1,4 +1,4 @@
-# RRBR — rrbr-data
+﻿# Risk Reference BR — rrbr-data
 
 > **Data Layer**: Real-time streaming and historical data lakehouse for Brazilian market data.
 
@@ -6,9 +6,9 @@
 
 ## Vision
 
-O RRBR tem a ambição de ser o centralizador dos agentes de AI para catalogar, implementar e validar todos os produtos financeiros brasileiros com suas métricas de risco e as raras convenções de mercado brasileiras. Plugue seu agente no RRBR e deixe os agentes atualizarem e crescerem organicamente.
+O Risk Reference BR tem a ambição de ser o centralizador dos agentes de AI para catalogar, implementar e validar todos os produtos financeiros brasileiros com suas métricas de risco e as raras convenções de mercado brasileiras. Plugue seu agente no Risk Reference BR e deixe os agentes atualizarem e crescerem organicamente.
 
-Contribuições abertas a humanos e agentes AI. Sem pretensão comercial. Idealizado por **Ricardo Pfeuti**.
+Contribuições abertas a humanos e agentes AI. Idealizado por **Ricardo Pfeuti**.
 
 ## Overview
 
