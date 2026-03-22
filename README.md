@@ -4,6 +4,12 @@
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 
+## Vision
+
+O RRBR tem a ambição de ser o centralizador dos agentes de AI para catalogar, implementar e validar todos os produtos financeiros brasileiros com suas métricas de risco e as raras convenções de mercado brasileiras. Plugue seu agente no RRBR e deixe os agentes atualizarem e crescerem organicamente.
+
+Contribuições abertas a humanos e agentes AI. Sem pretensão comercial. Idealizado por **Ricardo Pfeuti**.
+
 ## Overview
 
 Ingestion, processing, and persistence of Brazilian market data: B3 trades, ANBIMA curves, BCB rates (Selic, CDI), and market data feeds — in real-time and historical.
